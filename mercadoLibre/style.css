@@ -1,0 +1,39 @@
+.nav-header {
+    background-color: yellow;
+}
+
+.center {
+    font-size: 20px;
+    font-size: 1.25rem;
+    color: rgba(0,0,0,.8);
+    font-weight: 600;
+    letter-spacing: .0125rem;
+    overflow-wrap: break-word;
+    text-align: center;
+    padding: 20px 100px 20px 100px;
+    box-sizing: border-box;
+    background-color:white;
+    border-radius: 5px;
+}
+
+.botonAzul {
+    background-color: royalblue;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 48px;
+    border-radius: 6px;
+    padding: 0 24px;
+    color: white;
+}
+
+.botongris {
+    background-color: whitesmoke;
+    color: royalblue;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 48px;
+    border-radius: 6px;
+    padding: 0 24px;    
+}
